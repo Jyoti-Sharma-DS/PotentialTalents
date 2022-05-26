@@ -20,15 +20,14 @@ The data set consists of multiple text and a numeric features. The goal of the p
 # Exploratory Data analysis Findings:
 From Exploratory data findings we have figured out the top 10 locations and the most used used words used in job tittles and locations. 
 <br />
+<br />
+<br />
 <div> 
     <div align="left"><img src="Top10Locations.png" width="300" height="300" align="left">
     </div>
     <div >
         <p align="right"><h4><br><br><br>Top 20 Locations of candidates in dataset </h4> </p>
     </div>
-</div>
-<br />
-<br />
 <div> 
     <div align="left"><img src="WordCloudImageTitle.png" width="300" height="300" align="left">
     </div>
@@ -70,6 +69,8 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
         <p align="right"><h4><br><br><br>Top job tittle of candidates matched against the query  </h4> </p>
     </div>
 </div>
+<br />
+<br />
 <br />
 ##### Top 10 Results for Query 2 - 'Seeking human resources'
 <br />
