@@ -19,7 +19,7 @@ The data set consists of multiple text and a numeric features. The goal of the p
 
 # Exploratory Data analysis Findings:
 From Exploratory data findings we have figured out the top 10 locations and the most used used words used in job tittles and locations. 
-
+<br>
 <div> 
     <div align="left"><img src="Top10Locations.png" width="300" height="300" align="left">
     </div>
@@ -29,6 +29,13 @@ From Exploratory data findings we have figured out the top 10 locations and the 
 </div>
 <br>
 &nbsp
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div> 
     <div align="left"><img src="WordCloudImageTitle.png" width="300" height="300" align="left">
     </div>
@@ -36,6 +43,8 @@ From Exploratory data findings we have figured out the top 10 locations and the 
         <p align="right"><h4><br><br><br>Top words used in job tittle of candidates in dataset </h4> </p>
     </div>
 </div>
+<br>
+<br>
 
 From the word cloud we can deduce that most of the job title have human, resource, professional as the most common words.
 
@@ -59,6 +68,8 @@ After using multiple NLP techniques like tf-idf , Word2vec using pre-trained mod
 For checking simillarity between the given query tittles - 'Aspiring human resources' and 'seeking human resources' and the candidates title the fastText embeddings seems to be the best choice for ranking the candidates against the queries provided. Also, the mechanism implemented for Re-Ranking is also able perform really good based on the inputs provided. Which is evident from the change in similarity scores for ranked candidates and re-ranked candidates.
 
 ##### Top 10 Results for Query 1 - 'Aspiring human resources' 
+
+<br>
 <div> 
     <div align="left"><img src="TopCandidatesQuery1.png" width="300" height="300" align="left">
     </div>
@@ -67,7 +78,12 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
     </div>
 </div>
 <br>
-&nbsp
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ##### Top 10 Results for Query 2 - 'Seeking human resources'
 
 <div> 
