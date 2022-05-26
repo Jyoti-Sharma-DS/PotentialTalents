@@ -23,23 +23,30 @@ From Exploratory data findings we have figured out the top 10 locations and the 
 <br />
 <br />
 <div> 
-    <div align="left"><img src="Top10Locations.png" width="300" height="300" align="left">
+    <div align="left"><img src="Top10Locations.png" width="300" height="300" >
     </div>
     <div >
         <p align="right"><h4><br><br><br>Top 20 Locations of candidates in dataset </h4> </p>
     </div>
 <div> 
-    <div align="left"><img src="WordCloudImageTitle.png" width="300" height="300" align="left">
+    <br />
+<br />
+    
+    <div align="left"><img src="WordCloudImageTitle.png" width="300" height="300" >
     </div>
     <div >
         <p align="right"><h4><br><br><br>Top words used in job tittle of candidates in dataset </h4> </p>
     </div>
 </div>
-
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 From the word cloud we can deduce that most of the job title have human, resource, professional as the most common words.
-
+<br />
+<br />
 # Machine Learning model used:
 
 We have used multiple NLP techniques like <br>
@@ -63,7 +70,7 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
 <br />
 <br />
 <div> 
-    <div align="left"><img src="TopCandidatesQuery1.png" width="300" height="300" align="left">
+    <div align="left"><img src="TopCandidatesQuery1.png" width="300" height="300">
     </div>
     <div >
         <p align="right"><h4><br><br><br>Top job tittle of candidates matched against the query  </h4> </p>
@@ -76,7 +83,7 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
 <br />
 <br />
 <div> 
-    <div align="left"><img src="TopCandidatesQuery2.png" width="300" height="300" align="left">
+    <div align="left"><img src="TopCandidatesQuery2.png" width="300" height="300">
     </div>
     <div >
         <p align="right"><h4><br><br><br>Top job tittle of candidates matched against the query  </h4> </p>
