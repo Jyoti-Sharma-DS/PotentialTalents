@@ -23,9 +23,9 @@ From Exploratory data findings we have figured out the top 10 locations and the 
 <br />
 <br />
 <div> 
-    <div align="left"> <img src="Top10Locations.png" width="400" height="450"> </div>
+    <div align="left"> <img src="Top10Locations.png" width="500" height="650"> </div>
     <div> <p align="right"> <h4> <br/> <br/> <br/> Top 20 Locations of candidates in dataset </h4> </p> </div>
-    <div align="left"> <img src="WordCloudImageTitle.png" width="300" height="300"> </div>
+    <div align="left"> <img src="WordCloudImageTitle.png" width="500" height="500"> </div>
     <div> <p align="right"><h4><br><br><br>Top words used in job tittle of candidates in dataset </h4></p> </div>
 </div>
 <br />
@@ -60,7 +60,7 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
 <br/>
 <br/>
 <div> 
-    <div align="left"><img src="TopCandidatesQuery1.png" width="300" height="300">
+    <div align="left"><img src="TopCandidatesQuery1.png" width="500" height="500">
     </div>
     <div >
         <p align="right"> <h4> <br><br><br>Top job tittle of candidates matched against the query </h4> </p>
@@ -77,7 +77,7 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
 <br/>
 <br/>
 <div> 
-    <div align="left"><img src="TopCandidatesQuery2.png" width="300" height="300">
+    <div align="left"><img src="TopCandidatesQuery2.png" width="500" height="500">
     </div>
     <div >
         <p align="right"><h4><br><br><br>Top job tittle of candidates matched against the query  </h4> </p>
