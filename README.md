@@ -23,8 +23,8 @@ From Exploratory data findings we have figured out the top 10 locations and the 
 <br />
 <br />
 <div> 
-    <div align="left"> <img src="Top10Locations.png" width="300" height="300"> </div>
-    <div> <p align="right"> <h4><br><br><br>Top 20 Locations of candidates in dataset</h4></p> </div>
+    <div align="left"> <img src="Top10Locations.png" width="700" height="800"> </div>
+    <div> <p align="right"> <h4> <br/> <br/> <br/> Top 20 Locations of candidates in dataset </h4> </p> </div>
     <div align="left"> <img src="WordCloudImageTitle.png" width="300" height="300"> </div>
     <div> <p align="right"><h4><br><br><br>Top words used in job tittle of candidates in dataset </h4></p> </div>
 </div>
