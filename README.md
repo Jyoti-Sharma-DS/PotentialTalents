@@ -23,16 +23,12 @@ From Exploratory data findings we have figured out the top 10 locations and the 
 <br />
 <br />
 <div> 
-    <div align="left"> <img src="Top10Locations.png" width="500" height="650"> </div>
+    <div align="left"> <img src="Top10Locations.png" width="700" height="550"> </div>
     <div> <p align="right"> <h4> <br/> <br/> <br/> Top 20 Locations of candidates in dataset </h4> </p> </div>
-    <div align="left"> <img src="WordCloudImageTitle.png" width="500" height="500"> </div>
+    <div align="left"> <img src="WordCloudImageTitle.png" width="600" height="600"> </div>
     <div> <p align="right"><h4><br><br><br>Top words used in job tittle of candidates in dataset </h4></p> </div>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
+
 <br />
 From the word cloud we can deduce that most of the job title have human, resource, professional as the most common words.
 <br />
@@ -58,28 +54,23 @@ For checking simillarity between the given query tittles - 'Aspiring human resou
 
 ##### Top 10 Results for Query 1 - 'Aspiring human resources' 
 <br/>
-<br/>
 <div> 
     <div align="left"><img src="TopCandidatesQuery1.png" width="500" height="500">
     </div>
     <div >
-        <p align="right"> <h4> <br><br><br>Top job tittle of candidates matched against the query </h4> </p>
+        <p align="right"> <h4><br/>Top job tittle of candidates matched against the query </h4> </p>
     </div>
 </div>
 <br/>
 <br/>
-<br/>
-
 
 ##### Top 10 Results for Query 2 - 'Seeking human resources'
+<br/>
 
-<br/>
-<br/>
-<br/>
 <div> 
     <div align="left"><img src="TopCandidatesQuery2.png" width="500" height="500">
     </div>
     <div >
-        <p align="right"><h4><br><br><br>Top job tittle of candidates matched against the query  </h4> </p>
+        <p align="right"><h4><br/>Top job tittle of candidates matched against the query  </h4> </p>
     </div>
 </div>
