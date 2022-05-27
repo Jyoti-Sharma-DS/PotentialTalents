@@ -33,6 +33,7 @@ From Exploratory data findings we have figured out the top 10 locations and the 
 From the word cloud we can deduce that most of the job title have human, resource, professional as the most common words.
 <br />
 <br />
+
 # Machine Learning model used:
 
 We have used multiple NLP techniques like <br>
@@ -46,6 +47,8 @@ We have used multiple NLP techniques like <br>
 </ol>
 for building the ranking model. The fastText pre-trained model embedding seems to be working good for building the ranking model. 
 And we have used fastText pre-trained embeddengings as input for building our re-ranker model using Custom RankNet implementation.
+
+**Notbook Link:** [https://github.com/jsJyo/PotentialTalents/Potential_Talents_v1.1.ipynb](https://github.com/jsJyo/PotentialTalents/blob/main/Potential_Talents_v1.1.ipynb)
 
 # Conclusion:
 
