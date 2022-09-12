@@ -48,7 +48,7 @@ We have used multiple NLP techniques like <br>
 for building the ranking model. The fastText pre-trained model embedding seems to be working good for building the ranking model. 
 And we have used fastText pre-trained embeddengings as input for building our re-ranker model using Custom RankNet implementation.
 
-**Notbook Link:** [https://github.com/jsJyo/PotentialTalents/Potential_Talents_v1.1.ipynb](https://github.com/jsJyo/PotentialTalents/blob/main/Potential_Talents_v1.1.ipynb)
+**Notbook Link:** [https://github.com/Jyoti-Sharma-DS/PotentialTalents/Potential_Talents_v1.1.ipynb](https://nbviewer.org/github/Jyoti-Sharma-DS/PotentialTalents/blob/main/Potential_Talents_v1.1.ipynb)
 
 # Conclusion:
 
